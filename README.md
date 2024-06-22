@@ -189,6 +189,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
+* [TryHackMe | Snyk Open Source](https://tryhackme.com/r/room/snykopensource)
+* [TryHackMe | Snyk Code](https://tryhackme.com/r/room/snykcode)
 * [TryHackMe | Intro to IaC](https://tryhackme.com/room/introtoiac)
 
 * [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
@@ -466,6 +468,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* [TryHackMe | W1seGuy](https://tryhackme.com/r/room/w1seguy)
 * (TryHackMe | mKingdom)[https://tryhackme.com/r/room/mkingdom]
 * (TryHackMe | Linux Process Analysis)[https://tryhackme.com/r/room/linuxprocessanalysis]
 * (TryHackMe | CyberLens)[https://tryhackme.com/r/room/cyberlensp6]
