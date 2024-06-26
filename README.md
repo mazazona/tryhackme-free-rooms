@@ -49,7 +49,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Hard CTF](#hard-ctf)**                         | **38**          |                           |
 | **[Misc](#misc)**                                 | **35**          |                           |
 | **[Special Events](#special-events)**             | **9**           |                           |
-| **Total Rooms:**                                  | **= 378**       |                           |
+| **[Container Security](#container-security)**     | **1**           |                           |
+| **Total Rooms:**                                  | **= 379**       |                           |
 
 ## Intro Rooms
 * [TryHackMe | Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
