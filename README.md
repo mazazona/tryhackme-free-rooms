@@ -418,7 +418,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 ## Windows
-
+* [TryHackMe | Windows Incident Surface](https://tryhackme.com/r/room/winincidentsurface)
 * (TryHackMe | Registry Persistence Detection)[https://tryhackme.com/room/registrypersistencedetection]
 
 * [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
@@ -472,6 +472,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* [TryHackMe | Publisher](https://tryhackme.com/r/room/publisher)
 * [TryHackMe | W1seGuy](https://tryhackme.com/r/room/w1seguy)
 * (TryHackMe | mKingdom)[https://tryhackme.com/r/room/mkingdom]
 * (TryHackMe | Linux Process Analysis)[https://tryhackme.com/r/room/linuxprocessanalysis]
