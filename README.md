@@ -260,9 +260,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
 ## Web
-* (TryHackMe | Advanced SQL Injection)[https://tryhackme.com/r/room/advancedsqlinjection]
-* (TryHackMe | XSS)[https://tryhackme.com/r/room/axss]
-* (TryHackMe | CSRF)[https://tryhackme.com/r/room/csrfV2]
+* [TryHackMe | Advanced SQL Injection](https://tryhackme.com/r/room/advancedsqlinjection)
+* [TryHackMe | XSS](https://tryhackme.com/r/room/axss)
+* [TryHackMe | CSRF](https://tryhackme.com/r/room/csrfV2)
 * [TryHackMe | File Inclusion, Path Traversal](https://tryhackme.com/room/filepathtraversal)
 * [TryHackMe | HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling)
 * [TryHackMe | HTTP/2 Request Smuggling](https://tryhackme.com/room/http2requestsmuggling)
@@ -389,64 +389,37 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
 
 ## PrivEsc
-
-
 * [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
-
 * [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
-
 * [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
-
 * [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
-
 * [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
-
 * [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
-
 * [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
-
 * [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
-
 * [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
-
 * [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
-
 * [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
-
 * [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
-
 * [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 ## Windows
 * [TryHackMe | Windows Incident Surface](https://tryhackme.com/r/room/winincidentsurface)
-* (TryHackMe | Registry Persistence Detection)[https://tryhackme.com/room/registrypersistencedetection]
-
+* [TryHackMe | Registry Persistence Detection](https://tryhackme.com/room/registrypersistencedetection)
 * [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
-
 * [TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)
-
 * [TryHackMe | Investigating Windows 3.x](https://tryhackme.com/room/investigatingwindows3)
-
 * [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
-
 * [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
-
 * [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
-
 * [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
 ## Active Directory
-
 * [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
-
 * [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
-
 * [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
-
 * [TryHackMe | USTOUN](https://tryhackme.com/room/ustoun)
-
 * [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
-
 * [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
 
 ## PCAP Analysis
@@ -474,59 +447,35 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 ## Easy CTF
 * [TryHackMe | Publisher](https://tryhackme.com/r/room/publisher)
 * [TryHackMe | W1seGuy](https://tryhackme.com/r/room/w1seguy)
-* (TryHackMe | mKingdom)[https://tryhackme.com/r/room/mkingdom]
-* (TryHackMe | Linux Process Analysis)[https://tryhackme.com/r/room/linuxprocessanalysis]
-* (TryHackMe | CyberLens)[https://tryhackme.com/r/room/cyberlensp6]
-* (TryHackMe | TryHack3M: Bricks Heist)[https://tryhackme.com/r/room/tryhack3mbricksheist]
-* (TryHackMe | Creative)[https://tryhackme.com/r/room/creative]
-* (TryHackMe | Eviction)[https://tryhackme.com/room/eviction]
-
-* (TryHackMe | Probe)[https://tryhackme.com/room/probe]
-
-* (TryHackMe | Dreaming)[https://tryhackme.com/room/dreaming]
-
-* (TryHackMe | The Witch's Cauldron)[https://tryhackme.com/room/cauldron]
-
+* [TryHackMe | mKingdom](https://tryhackme.com/r/room/mkingdom)
+* [TryHackMe | Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)
+* [TryHackMe | CyberLens](https://tryhackme.com/r/room/cyberlensp6)
+* [TryHackMe | TryHack3M: Bricks Heist](https://tryhackme.com/r/room/tryhack3mbricksheist)
+* [TryHackMe | Creative](https://tryhackme.com/r/room/creative)
+* [TryHackMe | Eviction](https://tryhackme.com/room/eviction)
+* [TryHackMe | Probe](https://tryhackme.com/room/probe)
+* [TryHackMe | Dreaming](https://tryhackme.com/room/dreaming)
+* [TryHackMe | The Witch's Cauldron](https://tryhackme.com/room/cauldron)
 * [ TryHackMe | Bulletproof Penguin ](https://tryhackme.com/room/bppenguin)
-
 * [ TryHackMe | Hijack ](https://tryhackme.com/room/hijack)
-
 * [ TryHackMe | Compiled ](https://tryhackme.com/room/compiled)
-
 * [TryHackMe | Super Secret TIp](https://tryhackme.com/room/supersecrettip)
-
 * [TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
-
 * [TryHackMe | Grep](https://tryhackme.com/room/greprtp)
-
 * [TryHackMe | Red](https://tryhackme.com/room/redisl33t)
-
 * [TryHackMe | Snapped "Phish"-ing Line](https://tryhackme.com/room/snappedphishingline)
-
 * [TryHackMe | Cat Pictures 2](https://tryhackme.com/room/catpictures2)
-
 * [TryHackMe | Flip](https://tryhackme.com/room/flip)
-
 * [TryHackMe | Valley!](https://tryhackme.com/room/valleype)
-
 * [TryHackMe | Capture!](https://tryhackme.com/room/capture)
-
 * [TryHackMe | Opacity](https://tryhackme.com/room/opacity)
-
 * [TryHackMe | LookBack](https://tryhackme.com/room/lookback)
-
 * [TryHackMe | Bugged](https://tryhackme.com/room/bugged)
-
 * [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
-
 * [TryHackMe | Confidential](https://tryhackme.com/room/confidential)
-
 * [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
-
 * [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
-
 * [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
-
 * [TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
 * [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
@@ -898,7 +847,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 - [TryHackMe | GitLab CVE-2023-7028](https://tryhackme.com/room/gitlabcve20237028)
 
-- (TryHackMe | Cactus)[https://tryhackme.com/room/cactus]
+- [TryHackMe | Cactus](https://tryhackme.com/room/cactus)
 
 - [ TryHackMe | Looney Tunables ](https://tryhackme.com/room/looneytunes)
 
