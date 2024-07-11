@@ -260,6 +260,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
 ## Web
+* [TryHackMe | NoSQL Injection](https://tryhackme.com/r/room/nosqlinjectiontutorial)
 * [TryHackMe | Advanced SQL Injection](https://tryhackme.com/r/room/advancedsqlinjection)
 * [TryHackMe | XSS](https://tryhackme.com/r/room/axss)
 * [TryHackMe | CSRF](https://tryhackme.com/r/room/csrfV2)
