@@ -227,6 +227,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
 ## Container Security
+* [TryHackMe | K8s Best Security Practices](https://tryhackme.com/r/room/k8sbestsecuritypractices)
 * [TryHackMe | Cluster Hardening](https://tryhackme.com/r/room/clusterhardening)
 
 ## Cryptography & Hashes
@@ -446,6 +447,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* [TryHackMe | Critical](https://tryhackme.com/r/room/critical)
 * [TryHackMe | Publisher](https://tryhackme.com/r/room/publisher)
 * [TryHackMe | W1seGuy](https://tryhackme.com/r/room/w1seguy)
 * [TryHackMe | mKingdom](https://tryhackme.com/r/room/mkingdom)
