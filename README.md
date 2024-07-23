@@ -447,6 +447,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 * [TryHackMe | Critical](https://tryhackme.com/r/room/critical)
 * [TryHackMe | Publisher](https://tryhackme.com/r/room/publisher)
 * [TryHackMe | W1seGuy](https://tryhackme.com/r/room/w1seguy)
