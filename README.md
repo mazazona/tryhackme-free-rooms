@@ -53,6 +53,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **Total Rooms:**                                  | **= 379**       |                           |
 
 ## Intro Rooms
+* [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
+* [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 * [TryHackMe | Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
 * [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 * [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
@@ -447,7 +449,6 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
-* [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 * [TryHackMe | Critical](https://tryhackme.com/r/room/critical)
 * [TryHackMe | Publisher](https://tryhackme.com/r/room/publisher)
 * [TryHackMe | W1seGuy](https://tryhackme.com/r/room/w1seguy)
