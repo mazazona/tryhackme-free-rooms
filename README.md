@@ -325,6 +325,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
+- [TryHackMe | Forensic Imaging](https://tryhackme.com/r/room/forensicimaging)
 - [TryHackMe | IR Philosophy and Ethics](https://tryhackme.com/r/room/irphilosophyethics)
 - [TryHackMe | Windows Applications Forensics](https://tryhackme.com/r/room/windowsapplications)
 * [TryHackMe | Legal Considerations in DFIR](https://tryhackme.com/room/dfirprocesslegalconsiderations)
@@ -449,6 +450,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+* [TryHackMe | Joomify](https://tryhackme.com/r/room/joomify)
 * [TryHackMe | Critical](https://tryhackme.com/r/room/critical)
 * [TryHackMe | Publisher](https://tryhackme.com/r/room/publisher)
 * [TryHackMe | W1seGuy](https://tryhackme.com/r/room/w1seguy)
@@ -590,6 +592,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
+- [TryHackMe | Block](https://tryhackme.com/r/room/blockroom)
+- [TryHackMe | APIWizards Breach](https://tryhackme.com/r/room/apiwizardsbreach)
 - [TryHackMe | New York Flankees](https://tryhackme.com/r/room/thenewyorkflankees)
 - [TryHackMe | Airplane](https://tryhackme.com/r/room/airplane)
 - [TryHackMe | Profiles](https://tryhackme.com/r/room/profilesroom)
