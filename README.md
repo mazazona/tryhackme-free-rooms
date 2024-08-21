@@ -260,6 +260,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Web
 
+- [TryHackMe | Microservices Architectures](https://tryhackme.com/r/room/microservicearchitectures)
 - [TryHackMe | NoSQL Injection](https://tryhackme.com/r/room/nosqlinjectiontutorial)
 - [TryHackMe | Advanced SQL Injection](https://tryhackme.com/r/room/advancedsqlinjection)
 - [TryHackMe | XSS](https://tryhackme.com/r/room/axss)
@@ -322,6 +323,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Forensics
 
+- [TryHackMe | Intro to Cold System Forensics](https://tryhackme.com/r/room/introtocoldsystemforensics)
 - [TryHackMe | Forensic Imaging](https://tryhackme.com/r/room/forensicimaging)
 - [TryHackMe | IR Philosophy and Ethics](https://tryhackme.com/r/room/irphilosophyethics)
 - [TryHackMe | Windows Applications Forensics](https://tryhackme.com/r/room/windowsapplications)
