@@ -443,6 +443,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Easy CTF
 
+- [TryHackMe | U.A. High School](https://tryhackme.com/r/room/yueiua)
 - [TryHackMe | Joomify](https://tryhackme.com/r/room/joomify)
 - [TryHackMe | Critical](https://tryhackme.com/r/room/critical)
 - [TryHackMe | Publisher](https://tryhackme.com/r/room/publisher)
@@ -848,6 +849,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Misc
 
+- [TryHackMe | PaperCut: CVE-2023-27350](https://tryhackme.com/r/room/papercut)
 - [TryHackMe | Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink)
 - [TryHackMe | Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515)
 
