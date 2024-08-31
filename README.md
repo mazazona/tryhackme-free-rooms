@@ -105,6 +105,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Basics Rooms
 
+- [TryHackMe | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
 - [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
 - [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
