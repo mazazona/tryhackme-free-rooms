@@ -227,6 +227,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Container Security
 
+- [TryHackMe | K8s Runtime Security](https://tryhackme.com/r/room/k8sruntimesecurity)
 - [TryHackMe | K8s Best Security Practices](https://tryhackme.com/r/room/k8sbestsecuritypractices)
 - [TryHackMe | Cluster Hardening](https://tryhackme.com/r/room/clusterhardening)
 
