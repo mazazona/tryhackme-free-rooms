@@ -326,6 +326,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Forensics
 
+- [TryHackMe | IR Playbooks](https://tryhackme.com/r/room/irplaybooks)
 - [TryHackMe | Intro to Cold System Forensics](https://tryhackme.com/r/room/introtocoldsystemforensics)
 - [TryHackMe | Forensic Imaging](https://tryhackme.com/r/room/forensicimaging)
 - [TryHackMe | IR Philosophy and Ethics](https://tryhackme.com/r/room/irphilosophyethics)
@@ -770,6 +771,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Hard CTF
 
+- [TryHackMe | CERTain Doom](https://tryhackme.com/r/room/certaindoom)
 - [TryHackMe | Capture Returns](https://tryhackme.com/r/room/capturereturns)
 - [TryHackMe | Chrome](https://tryhackme.com/room/chrome)
 - [TryHackMe | Reset](https://tryhackme.com/room/resetui)
