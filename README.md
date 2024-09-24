@@ -326,6 +326,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Forensics
 
+- [TryHackMe | Linux Incident Surface](https://tryhackme.com/r/room/linuxincidentsurface)
 - [TryHackMe | IR Playbooks](https://tryhackme.com/r/room/irplaybooks)
 - [TryHackMe | Intro to Cold System Forensics](https://tryhackme.com/r/room/introtocoldsystemforensics)
 - [TryHackMe | Forensic Imaging](https://tryhackme.com/r/room/forensicimaging)
@@ -447,6 +448,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Easy CTF
 
+- [TryHackMe | Breakme](https://tryhackme.com/r/room/breakmenu)
 - [TryHackMe | U.A. High School](https://tryhackme.com/r/room/yueiua)
 - [TryHackMe | Joomify](https://tryhackme.com/r/room/joomify)
 - [TryHackMe | Critical](https://tryhackme.com/r/room/critical)
