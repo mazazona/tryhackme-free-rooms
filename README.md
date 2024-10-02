@@ -448,7 +448,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Easy CTF
 
-- [TryHackMe | Breakme](https://tryhackme.com/r/room/breakmenu)
+- [TryHackMe | Cheese CTF](https://tryhackme.com/r/room/cheesectfv10)
 - [TryHackMe | U.A. High School](https://tryhackme.com/r/room/yueiua)
 - [TryHackMe | Joomify](https://tryhackme.com/r/room/joomify)
 - [TryHackMe | Critical](https://tryhackme.com/r/room/critical)
@@ -593,6 +593,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Medium CTF
 
+- [TryHackMe | The London Bridge](https://tryhackme.com/r/room/thelondonbridge)
+- [TryHackMe | Breakme](https://tryhackme.com/r/room/breakmenu)
 - [TryHackMe | Block](https://tryhackme.com/r/room/blockroom)
 - [TryHackMe | APIWizards Breach](https://tryhackme.com/r/room/apiwizardsbreach)
 - [TryHackMe | New York Flankees](https://tryhackme.com/r/room/thenewyorkflankees)
