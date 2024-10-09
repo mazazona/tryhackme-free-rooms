@@ -448,6 +448,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Easy CTF
 
+- [TryHackMe | Pyrat](https://tryhackme.com/r/room/pyrat)
 - [TryHackMe | Cheese CTF](https://tryhackme.com/r/room/cheesectfv10)
 - [TryHackMe | U.A. High School](https://tryhackme.com/r/room/yueiua)
 - [TryHackMe | Joomify](https://tryhackme.com/r/room/joomify)
