@@ -594,6 +594,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Medium CTF
 
+- [TryHackMe | Backtrack](https://tryhackme.com/r/room/backtrack)
+- [TryHackMe | Extracted](https://tryhackme.com/r/room/extractedroom)
 - [TryHackMe | The London Bridge](https://tryhackme.com/r/room/thelondonbridge)
 - [TryHackMe | Breakme](https://tryhackme.com/r/room/breakmenu)
 - [TryHackMe | Block](https://tryhackme.com/r/room/blockroom)
